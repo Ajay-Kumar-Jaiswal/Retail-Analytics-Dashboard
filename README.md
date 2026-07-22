@@ -176,13 +176,13 @@ Features:
 
 ## 📈 Retail Sales Dashboard
 
-Retail-Analytics-Project/dashboard/Sales_Dashboard.png
+![Retail Sales Dashboard](Retail-Analytics-Project/dashboard/Sales_Dashboard.png)
 
 ---
 
 ## 👥 Customer Analytics Dashboard
 
-![Customer Analytics Dashboard](dashboard/Customer_Dashboard.png)
+![Customer Analytics Dashboard](Retail-Analytics-Project/dashboard/Customer_Dashboard.png)
 
 
 ---
