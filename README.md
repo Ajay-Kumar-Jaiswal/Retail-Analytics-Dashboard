@@ -174,23 +174,16 @@ Features:
 
 # 📸 Dashboard Preview
 
-## Retail Sales Dashboard
+## 📈 Retail Sales Dashboard
 
-> Replace with screenshot
-
-```
-Retail-Analytics-Project/dashboard/Sales_Dashboard.png
-```
+![Retail Sales Dashboard](dashboard/Sales_Dashboard.png)
 
 ---
 
-## Customer Analytics Dashboard
+## 👥 Customer Analytics Dashboard
 
-> Replace with screenshot
+![Customer Analytics Dashboard](dashboard/Customer_Dashboard.png)
 
-```
-Retail-Analytics-Project/dashboard/Customer_Dashboard.png
-```
 
 ---
 
