@@ -176,7 +176,7 @@ Features:
 
 ## 📈 Retail Sales Dashboard
 
-![Retail Sales Dashboard](dashboard/Sales_Dashboard.png)
+Retail-Analytics-Project/dashboard/Sales_Dashboard.png
 
 ---
 
