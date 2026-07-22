@@ -179,7 +179,7 @@ Features:
 > Replace with screenshot
 
 ```
-Sales_Dashboard.png
+![Retail Sales Dashboard](dashboard/Sales_Dashboard.png)
 ```
 
 ---
@@ -189,7 +189,7 @@ Sales_Dashboard.png
 > Replace with screenshot
 
 ```
-Customer_Dashboard.png
+![Customer Analytics Dashboard](dashboard/Customer_Dashboard.png)
 ```
 
 ---
